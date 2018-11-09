@@ -13,7 +13,7 @@ The process is broken down into 2 notebooks, Generate states.ipynb notebook crea
 
 ## Results
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Billie Thompson** - *Initial work* - ![alt text](http://url/to/montecarlo.jpg)
 
 
 ## Acknowledgments
