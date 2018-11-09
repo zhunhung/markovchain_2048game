@@ -1,6 +1,6 @@
 # markovchain_2048game
 
-Modeling 2048 into a Discrete-Time Time Homogenous Markov Chain using Python
+Modeling 2048 into a Discrete-Time Time Homogenous Markov Chain using Python.
 
 ## Getting Started
 
@@ -35,3 +35,4 @@ The process is broken down into 2 notebooks, Generate states.ipynb notebook crea
 ## Acknowledgments
 
 * Inspired by [John Lees-Miller's](https://jdlm.info/articles/2017/08/05/markov-chain-2048.html) article about 2048 as a Markov Chain
+* Completed as a school project with groupmates Mark and Alena.
