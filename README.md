@@ -35,4 +35,4 @@ The process is broken down into 2 notebooks, Generate states.ipynb notebook crea
 ## Acknowledgments
 
 * Inspired by [John Lees-Miller's](https://jdlm.info/articles/2017/08/05/markov-chain-2048.html) article about 2048 as a Markov Chain
-* Completed with groupmates Mark and Alena.
+* Completed with groupmates [Mark](https://github.com/markjrobby) and Alena.
