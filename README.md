@@ -13,7 +13,23 @@ The process is broken down into 2 notebooks, Generate states.ipynb notebook crea
 
 ## Results
 
-* **Billie Thompson** - *Initial work* - ![alt text](http://url/to/montecarlo.jpg)
+* **Transition Matrix** 
+
+![picture](transition_matrix.jpg)
+
+* **Average Steps to Win 2048** 
+
+  * Monte Carlo Simulation
+
+  ![picture](montecarlo.jpg)
+
+  * Linear Algebra 
+
+  ![picture](linear_algebra.jpg)
+  
+* **Probability of Winning States**
+
+![picture](likelywinningcombi.jpg)
 
 
 ## Acknowledgments
